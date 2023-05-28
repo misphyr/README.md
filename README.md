@@ -3,8 +3,8 @@
 Sou um Desenvolvedor e entusiasta da programação. Atualmente trabalho como Fullstack. Estou sempre buscando e aprofundando meus conhecimentos.
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=guiHFRosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiHFRosa&layout=compact&langs_count=7&theme=github_dark"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=misphyr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misphyr&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## Tecnologias
