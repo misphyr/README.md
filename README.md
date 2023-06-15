@@ -1,6 +1,6 @@
 # Sobre mim
 
-Sou um entusiasta da programação. Estou sempre buscando meus conhecimentos nulos.
+Sou um entusiasta da programação.
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=misphyr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
