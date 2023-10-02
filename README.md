@@ -1,6 +1,6 @@
 
    <div align="start" >
-    <img width="100%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misphyr&layout=compact&langs_count=7&theme=github_dark"/>
+    <img width="100%" height="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misphyr&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
 
 
